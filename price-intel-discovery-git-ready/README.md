@@ -76,3 +76,13 @@ Set in .env:
 - DISCOVERY_PROVIDER=google_cse
 - GOOGLE_CSE_API_KEY=...
 - GOOGLE_CSE_CX=...
+
+## Author
+
+**Saurabh Goyal**  
+Senior Product & AI Consultant | Data, Cloud, AI Systems  
+📍 Germany / Europe (Remote)
+
+- LinkedIn: https://www.linkedin.com/in/saurabh-product-tech-strategy/
+- GitHub: https://github.com/codesaurabhgoyal
+
